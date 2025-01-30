@@ -1,4 +1,4 @@
-import PageNav from "../components/PageNav";
+import PageNav from "../../components/PageNav/PageNav";
 import styles from "./Product.module.css";
 
 export default function Product() {
@@ -9,6 +9,7 @@ export default function Product() {
         <img
           src="img-1.jpg"
           alt="person with dog overlooking mountain with sunset"
+          className={styles.imgProduct}
         />
         <div>
           <h2>About WorldWide.</h2>
