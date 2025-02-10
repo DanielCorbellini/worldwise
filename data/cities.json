@@ -61,27 +61,15 @@
       }
     },
     {
-      "id": "2e27",
-      "cityName": "New Orleans",
-      "country": "United States of America (the)",
-      "emoji": "🇺🇸",
-      "date": "2025-02-10T21:50:14.261Z",
-      "notes": "SuperBowl! What a great night =)",
+      "id": "0654",
+      "cityName": "Sant Julia de Loria",
+      "country": "Andorra",
+      "emoji": "🇦🇩",
+      "date": "2025-02-10T22:38:41.155Z",
+      "notes": "teste",
       "position": {
-        "lat": "29.97337543037091",
-        "lng": "-90.08171081542969"
-      }
-    },
-    {
-      "id": "2763",
-      "cityName": "Sydney",
-      "country": "Australia",
-      "emoji": "🇦🇺",
-      "date": "2025-02-10T22:06:25.449Z",
-      "notes": "Beautiful",
-      "position": {
-        "lat": "-33.82479361826488",
-        "lng": "151.19384765625003"
+        "lat": "42.439674178149446",
+        "lng": "1.47216796875"
       }
     }
   ]
